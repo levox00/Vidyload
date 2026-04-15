@@ -1,5 +1,8 @@
 # Vidyload
-Download any video from the world wide web. Including hls, dash and cmaf streaming protocols
+Download any video from the world wide web. Including hls, dash and cmaf streaming protocols.
+
+- Perfect for every after effects/davinci resolve/capcut... editors for downloading video material from various streaming website. (yes aniwatch/9anime/anikai/yt...)
+
 
 > ⚠️ **Disclaimer:** This is an unofficial modification for learning purposes. This project is not affiliated with, endorsed by, or sponsored by the official Video Download Helper team. Use at your own risk. 
 - **Support the official developers by purchasing premium** [here](https://v10.downloadhelper.net/premium)
@@ -14,10 +17,29 @@ Download any video from the world wide web. Including hls, dash and cmaf streami
 - Download multiple videos at once
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/9841d121-5bea-4568-9338-1f840ebd1d36" />
 
+### Supported Platforms & Examples
+
+
+<div>
+
+
+| Preview | Example Sites |
+|---------|---------|
+| <img width="150" src="https://github.com/user-attachments/assets/1f467972-8d99-45e7-8e8c-de41d39691e4" /> | TikTok |
+| <img width="150" src="https://github.com/user-attachments/assets/708004ba-3e6d-44c5-bf08-fd9bd1698dde" /> | Instagram |
+| <img width="150" src="https://github.com/user-attachments/assets/d8ebbf83-92a7-4751-b934-79ec0f01d67b" /> | Anime Websites |
+| <img width="150" src="https://github.com/user-attachments/assets/b0d67e76-630a-4039-a0b5-49b01a1b77b3" /> | Bilibili |
+| <img width="150" src="https://github.com/user-attachments/assets/249e3090-5427-400a-a31c-d4ed2e207519" /> | Twitch |
+### And many more
+
+
+</div>
+
+
+
 ## Roadmap
 - [x] Youtube download enabled for chromium.
 
-Perfect for every after effects/davinci resolve/capcut... editors for downloading video material from various streaming website. (yes aniwatch/9anime/anikai/yt...)
 
 ## 📥 Installation
 
