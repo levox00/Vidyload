@@ -52,3 +52,7 @@ Perfect for every after effects/davinci resolve/capcut... editors for downloadin
 3. Click the **🔄 Reload** button on the extension card
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1c520ee0-9c68-491c-96c8-3688f9260795" />
+
+# Thats it
+
+> Go to any website and play a video and open the extension to  see it in action
