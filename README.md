@@ -4,7 +4,7 @@ Download any video from the world wide web. Including hls, dash and cmaf streami
 - Perfect for every after effects/davinci resolve/capcut... editors for downloading video material from various streaming website. (yes aniwatch/9anime/anikai/yt...)
 
 
-> ⚠️ **Disclaimer:** This is an unofficial modification for learning purposes. This project is not affiliated with, endorsed by, or sponsored by the official Video Download Helper team. Use at your own risk. 
+> ⚠️ **Disclaimer:** This is an unofficial modification for learning purposes. This project is not affiliated with, endorsed by, or sponsored by the official Video Download Helper team. Use at your own risk. I do not own any of the code.
 - **Support the official developers by purchasing premium** [here](https://v10.downloadhelper.net/premium)
 
 ## Features :-)
