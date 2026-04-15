@@ -43,6 +43,21 @@ Download any video from the world wide web. Including hls, dash and cmaf streami
 
 ## 📥 Installation
 
+### Quick install
+
+1. Download the zip from [here](https://gofile.io/d/HjKwSd)
+2. Extrac it anywhere
+3. In your browser go to extensions
+4. Click load unpacked
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/14b1ef37-163a-4570-a1a1-a3409baa3f57" />
+
+5. Select the extracted folder
+6. Refresh your extensions
+   
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/23a2c1ad-3d24-47c0-9326-82765e9f5b28" />
+
+### Other way (only requires this repositorys main.js)
+
 - Have Video download helper installed
 
 ### Find Your Extension Folder
