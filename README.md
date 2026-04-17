@@ -9,8 +9,7 @@ Download any video from the world wide web. Including hls, dash and cmaf streami
 
 
 ![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=%20Next%20Version&suffix=/10⭐&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flevox00%2FVidyload&color=lightblue&logo=github&logoColor=white)
-
-
+> Last updated to ``V10.2.33.2``
 
 ## Features :-)
 
