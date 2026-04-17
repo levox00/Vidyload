@@ -7,6 +7,11 @@ Download any video from the world wide web. Including hls, dash and cmaf streami
 > ⚠️ **Disclaimer:** This is an unofficial modification for learning purposes. This project is not affiliated with, endorsed by, or sponsored by the official Video Download Helper team. Use at your own risk. I do not own any of the code.
 - **Support the official developers by purchasing premium** [here](https://v10.downloadhelper.net/premium)
 
+
+![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=%20Next%20Version&suffix=/10⭐&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flevox00%2FVidyload&color=lightblue&logo=github&logoColor=white)
+
+
+
 ## Features :-)
 
 - Download from youtube in chromium based browsers (Chrome, Brave..)
