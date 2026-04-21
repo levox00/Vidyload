@@ -13,7 +13,9 @@
 
 
 ![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=%20Next%20Version&suffix=/10⭐&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flevox00%2FVidyload&color=lightblue&logo=github&logoColor=white)
+> <img width="118" height="56" alt="image" src="https://github.com/user-attachments/assets/76ef8f77-85d8-49c8-bec2-1261f9552f1e" />
 > Last updated to ``V10.2.33.2``
+
 
 ## Features :-)
 
