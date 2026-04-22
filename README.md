@@ -92,7 +92,8 @@
 ### Other way (only requires this repositorys main.js)
 
 - Have Video download helper installed
-
+- MUST BE THE SAME VERSION AS THE ``main.js`` eg. from releases
+- 
 ### Find Your Extension Folder
 
 | Browser | Path |
