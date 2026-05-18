@@ -20,7 +20,7 @@
 
 ## Features :-)
 
-- Mkv format (3 dots -> download as to download as mkv)
+- Mkv format (3 dots -> " download as"to download as mkv)
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/2d6875c1-82d7-48ea-9ddf-0a3bb512e9ce" />
 
 - No download speed throttle
