@@ -116,11 +116,26 @@
    "enable_history": {
       "message": "Activer l'historique"
    },
+   "font_size_default": {
+      "message": "Defaut"
+   },
+   "font_size_large": {
+      "message": "Grand"
+   },
+   "font_size_title": {
+      "message": "Taille de police"
+   },
+   "font_size_verylarge": {
+      "message": "Très grand"
+   },
    "free_account": {
       "message": "Plan gratuit"
    },
    "get_premium_button": {
       "message": "Obtenir le Premium"
+   },
+   "help_button_tooltip": {
+      "message": "Aide"
    },
    "hide_complete_button": {
       "message": "cacher"
@@ -148,6 +163,9 @@
    },
    "max_parallel_downloads": {
       "message": "Téléchargements simultanés maximum "
+   },
+   "media_discovered_ordering_title": {
+      "message": "Stratégie de tri des médiasStratégie de tri des médias"
    },
    "my_account_button": {
       "message": "Mon compte"
@@ -182,6 +200,15 @@
    "open_source_tab_button_tooltip": {
       "message": "Ouvrir l'onglet d'origine"
    },
+   "order_media_by_newest": {
+      "message": "Plus récents en premier"
+   },
+   "order_media_by_oldest": {
+      "message": "Plus anciens en premier"
+   },
+   "order_media_smart": {
+      "message": "Intelligent (recommandé)"
+   },
    "panel_position_title": {
       "message": "Position de la fenêtre"
    },
@@ -211,6 +238,9 @@
    },
    "prefered_quality_1080p": {
       "message": "1080p (bonne, par défaut)"
+   },
+   "prefered_quality_480p": {
+      "message": "480p (téléchargement plus rapide, résolution plus faible)"
    },
    "prefered_quality_720p": {
       "message": "720p (téléchargement rapide, faible résolution)"

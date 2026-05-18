@@ -54,7 +54,7 @@
       "message": "Управление"
    },
    "copy_to_clipboard": {
-      "message": "Скопировать информацию в буфер обмена"
+      "message": "Копировать данные в буфер обмена"
    },
    "copy_url": {
       "message": "Копировать URL"
@@ -87,7 +87,7 @@
       "message": "Показать каталог загрузок"
    },
    "download_directory_description": {
-      "message": "Видео загружаются в каталог для загрузок, установленную по умолчанию в браузере. Вы также можете указать подкаталог. Каталоги для загрузок с определённых сайтов можно настроить с помощью инструмента Smartnaming."
+      "message": "Видео загружаются в каталог для загрузок, заданный по умолчанию в браузере. Вы также можете указать подкаталог. Каталоги для загрузок с определённых сайтов можно настроить с помощью инструмента Smartnaming."
    },
    "download_directory_title": {
       "message": "Каталог для загрузок"
@@ -115,6 +115,18 @@
    },
    "enable_history": {
       "message": "Включить историю"
+   },
+   "font_size_default": {
+      "message": "По умолчанию"
+   },
+   "font_size_large": {
+      "message": "Большой"
+   },
+   "font_size_title": {
+      "message": "Размер текста"
+   },
+   "font_size_verylarge": {
+      "message": "Огромный"
    },
    "free_account": {
       "message": "Бесплатный тариф"
@@ -152,6 +164,9 @@
    "max_parallel_downloads": {
       "message": "Максимум одновременных загрузок"
    },
+   "media_discovered_ordering_title": {
+      "message": "Стратегия сортировки медиа"
+   },
    "my_account_button": {
       "message": "Мой аккаунт"
    },
@@ -185,6 +200,15 @@
    "open_source_tab_button_tooltip": {
       "message": "Открыть вкладку с исходным кодом"
    },
+   "order_media_by_newest": {
+      "message": "Сначала новые"
+   },
+   "order_media_by_oldest": {
+      "message": "Сначала старые"
+   },
+   "order_media_smart": {
+      "message": "Умная (рекомендуется)"
+   },
    "panel_position_title": {
       "message": "Положение панели"
    },
@@ -215,6 +239,9 @@
    "prefered_quality_1080p": {
       "message": "1080p (хорошее, по умолчанию)"
    },
+   "prefered_quality_480p": {
+      "message": "480p (быстрее загрузка, ниже разрешение)"
+   },
    "prefered_quality_720p": {
       "message": "720p (быстрая загрузка, низкое разрешение)"
    },
@@ -228,7 +255,7 @@
       "message": "Без статуса Премиум загрузка HLS возможна только через 2 часа после предыдущей."
    },
    "premium_required": {
-      "message": "Требуется статус Premium"
+      "message": "Требуется статус Премиум"
    },
    "premium_yt_required_description": {
       "message": "Без статуса Премиум загрузка с YouTube возможна только через 2 часа после предыдущей."
@@ -246,7 +273,7 @@
       "message": "Короткое видео"
    },
    "private_browsing_button": {
-      "message": "Изменить настройки приватного режима"
+      "message": "Настроить приватный режим"
    },
    "private_browsing_notifications": {
       "message": "Показывать уведомления для загрузок в приватном режиме"

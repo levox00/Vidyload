@@ -116,11 +116,26 @@
    "enable_history": {
       "message": "Увімкнути історію"
    },
+   "font_size_default": {
+      "message": "За промовчанням"
+   },
+   "font_size_large": {
+      "message": "Великий"
+   },
+   "font_size_title": {
+      "message": "Розмір тексту"
+   },
+   "font_size_verylarge": {
+      "message": "Дуже великий"
+   },
    "free_account": {
       "message": "Безкоштовний тариф"
    },
    "get_premium_button": {
       "message": "Отримати преміум-версію"
+   },
+   "help_button_tooltip": {
+      "message": "Допомога"
    },
    "hide_complete_button": {
       "message": "Сховати"
@@ -148,6 +163,9 @@
    },
    "max_parallel_downloads": {
       "message": "Максимальна кількість паралельних завантажень"
+   },
+   "media_discovered_ordering_title": {
+      "message": "Спосіб сортування медіа"
    },
    "my_account_button": {
       "message": "Мій акаунт"
@@ -182,6 +200,15 @@
    "open_source_tab_button_tooltip": {
       "message": "Відкрити вкладку з вихідним кодом"
    },
+   "order_media_by_newest": {
+      "message": "Спочатку новіші"
+   },
+   "order_media_by_oldest": {
+      "message": "Спочатку найстаріші"
+   },
+   "order_media_smart": {
+      "message": "Розумний (рекомендовано)"
+   },
    "panel_position_title": {
       "message": "Положення панелі"
    },
@@ -211,6 +238,9 @@
    },
    "prefered_quality_1080p": {
       "message": "1080p (висока за замовчуванням)"
+   },
+   "prefered_quality_480p": {
+      "message": "480p (швидше завантаження, нижча роздільність)"
    },
    "prefered_quality_720p": {
       "message": "720p (швидке завантаження, низька роздільність)"

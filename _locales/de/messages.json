@@ -116,11 +116,26 @@
    "enable_history": {
       "message": "Chronik anlegen"
    },
+   "font_size_default": {
+      "message": "Standard"
+   },
+   "font_size_large": {
+      "message": "Groß"
+   },
+   "font_size_title": {
+      "message": "Textgröße"
+   },
+   "font_size_verylarge": {
+      "message": "Sehr groß"
+   },
    "free_account": {
       "message": "Kostenloser Plan"
    },
    "get_premium_button": {
       "message": "Premium beziehen"
+   },
+   "help_button_tooltip": {
+      "message": "Hilfe"
    },
    "hide_complete_button": {
       "message": "verstecken"
@@ -148,6 +163,9 @@
    },
    "max_parallel_downloads": {
       "message": "Maximal gleichzeitige Downloads"
+   },
+   "media_discovered_ordering_title": {
+      "message": "Strategie zur Mediensortierung"
    },
    "my_account_button": {
       "message": "Mein Konto"
@@ -182,6 +200,15 @@
    "open_source_tab_button_tooltip": {
       "message": "Quellenregisterkarte öffnen"
    },
+   "order_media_by_newest": {
+      "message": "Neueste zuerst"
+   },
+   "order_media_by_oldest": {
+      "message": "Älteste zuerst"
+   },
+   "order_media_smart": {
+      "message": "Intelligent (empfohlen)"
+   },
    "panel_position_title": {
       "message": "Bildschirmposition"
    },
@@ -211,6 +238,9 @@
    },
    "prefered_quality_1080p": {
       "message": "1080p (gute Standardeinstellung)"
+   },
+   "prefered_quality_480p": {
+      "message": "480p (schnellerer Download, niedrigere Auflösung)"
    },
    "prefered_quality_720p": {
       "message": "720p (schneller Download, niedrige Auflösung)"
@@ -315,10 +345,10 @@
       "message": "Stopp"
    },
    "theme_dark": {
-      "message": "dunkel"
+      "message": "Dunkel"
    },
    "theme_light": {
-      "message": "hell"
+      "message": "Hell"
    },
    "theme_system": {
       "message": "System"
