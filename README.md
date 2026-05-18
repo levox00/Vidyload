@@ -1,4 +1,4 @@
-# Vidyload
+# Vid-download-helper
 
 <img width="500" alt="cccc-removebg-preview" src="https://github.com/user-attachments/assets/7fb9ea9c-8e41-4f75-b7f8-ec7cb544c7f9" />
 
